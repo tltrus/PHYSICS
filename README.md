@@ -1,6 +1,13 @@
 # PHYSICS
  C# App with physics
 
+# 2D-Bouncing-ball
+
+C# App with jumping ball under gravity
+
+![image](https://github.com/tltrus/PHYSICS/assets/77125487/e7720ec9-025b-4007-9abd-36e72386f686)
+
+
 # 2D Water
 
 Simple App with water simulation.
