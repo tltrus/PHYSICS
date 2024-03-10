@@ -20,6 +20,8 @@ Based on: https://code.tutsplus.com/make-a-splash-with-dynamic-2d-water-effects-
 
 C# projects with some solutions for Cisrcle-Line collisiton detection
 
+https://youtu.be/kXSFP3wwysU
+
 **Circle-Line. Sol.1** based on: https://code.tutsplus.com/tutorials/quick-tip-collision-detection-between-a-circle-and-a-line--active-10546
 Projection on Left Normal using.
 
