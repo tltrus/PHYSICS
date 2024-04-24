@@ -45,3 +45,12 @@ Several balls are falling down by gravity and crush wtith each other.
 
 ![image](https://github.com/tltrus/PHYSICS/assets/77125487/1fe975d6-0308-4249-b0bb-a37022b3e40c)
 
+
+# COLLISIONS/QuadtreeCollision
+
+C# Quadtree algorithm to detect intersections
+
+Based on: Coding Challenge #98.1 Quadtree https://thecodingtrain.com/challenges/98-quadtree
+
+![image](https://github.com/tltrus/PHYSICS/assets/77125487/dc780ad0-c5b3-4760-bd77-1612f27d1dd0)
+
