@@ -52,5 +52,7 @@ C# Quadtree algorithm to detect intersections
 
 Based on: Coding Challenge #98.1 Quadtree https://thecodingtrain.com/challenges/98-quadtree
 
+My Youtube: https://youtu.be/73vQE_vETCI
+
 ![image](https://github.com/tltrus/PHYSICS/assets/77125487/dc780ad0-c5b3-4760-bd77-1612f27d1dd0)
 
