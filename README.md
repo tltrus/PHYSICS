@@ -59,4 +59,8 @@ My Youtube: https://youtu.be/73vQE_vETCI
 
 # SpringForces
 
+Based on Challenges #160 — Spring Forces https://thecodingtrain.com/challenges/160-spring-forces
+
+My Youtube: https://youtu.be/iV_YKSvxJIg
+
 ![image](https://github.com/tltrus/PHYSICS/assets/77125487/573c252a-b618-49b4-9c6c-164b68ecfd97)
