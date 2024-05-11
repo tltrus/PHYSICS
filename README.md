@@ -57,6 +57,15 @@ My Youtube: https://youtu.be/73vQE_vETCI
 ![image](https://github.com/tltrus/PHYSICS/assets/77125487/dc780ad0-c5b3-4760-bd77-1612f27d1dd0)
 
 
+# DoublePendulum
+
+Based on Coding Challenge #93. Double pendulum https://thecodingtrain.com/challenges/93-double-pendulum
+
+My Youtube: https://youtu.be/L2FGAoDYnOg
+
+![image](https://github.com/tltrus/PHYSICS/assets/77125487/1f78d796-0cb5-420a-a2ee-ddf9c8ac059f)
+
+
 # SpringForces
 
 Based on Challenges #160 — Spring Forces https://thecodingtrain.com/challenges/160-spring-forces
