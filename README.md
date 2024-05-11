@@ -56,3 +56,7 @@ My Youtube: https://youtu.be/73vQE_vETCI
 
 ![image](https://github.com/tltrus/PHYSICS/assets/77125487/dc780ad0-c5b3-4760-bd77-1612f27d1dd0)
 
+
+# SpringForces
+
+![image](https://github.com/tltrus/PHYSICS/assets/77125487/573c252a-b618-49b4-9c6c-164b68ecfd97)
