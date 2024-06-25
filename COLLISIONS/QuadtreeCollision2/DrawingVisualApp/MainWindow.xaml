@@ -1,0 +1,21 @@
+﻿<Window x:Class="DrawingVisualApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DrawingVisualApp"
+        mc:Ignorable="d"
+        Title="Quadtree Collisions" Height="434" Width="415">
+    <Grid>
+        <StackPanel Margin="5">
+            <WrapPanel>
+                <Label Content="Capacity: " Margin="5"/>
+                <TextBox x:Name="tbCap" Text="4" Width="30" Height="25" Margin="5" VerticalAlignment="Center"/>
+                <Label Content="Particles num: " Margin="5"/>
+                <TextBox x:Name="tbParts" Text="100" Width="30" Height="25" Margin="5" VerticalAlignment="Center"/>
+                <Button x:Name="btnStart" Content="Start" Width="100" Margin="5" Click="btnStart_Click"/>
+            </WrapPanel>
+            <local:DrawingVisualClass x:Name="g" Background="Black" Height="400" Width="400" Margin="0"/>
+        </StackPanel>
+    </Grid>
+</Window>
