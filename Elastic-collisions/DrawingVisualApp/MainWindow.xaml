@@ -1,0 +1,21 @@
+﻿<Window x:Class="DrawingVisualApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DrawingVisualApp"
+        mc:Ignorable="d"
+        Title="Elastic collisions" Height="732" Width="746">
+    <Grid>
+        <StackPanel>
+            <WrapPanel Margin="10,5,5,10">
+                <CheckBox x:Name="cbShowQtree" Content="Show Quadtree" Margin="5" Width="200"/>
+                <CheckBox x:Name="cbShowVectors" Content="Show vectors" Margin="5"/>
+            </WrapPanel>
+            
+            <local:DrawingVisualClass x:Name="g" Background="Black" Height="652" VerticalAlignment="Center" HorizontalAlignment="Center" 
+                                  Width="726" MouseUp="g_MouseUp" />
+
+        </StackPanel>
+    </Grid>
+</Window>
