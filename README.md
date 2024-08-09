@@ -81,7 +81,7 @@ My Youtube: https://youtu.be/L2FGAoDYnOg
 
 Based on #184 — Elastic Collisions https://thecodingtrain.com/challenges/184-elastic-collisions
 
-My Youtube:
+My Youtube: https://youtu.be/uSw7SQqJI2E
 
 ![image](https://github.com/user-attachments/assets/a747a18f-7f9c-45fd-81a8-3955abede419)
 
