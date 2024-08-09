@@ -77,6 +77,15 @@ My Youtube: https://youtu.be/L2FGAoDYnOg
 ![image](https://github.com/tltrus/PHYSICS/assets/77125487/1f78d796-0cb5-420a-a2ee-ddf9c8ac059f)
 
 
+# Elastic-collisions
+
+Based on #184 — Elastic Collisions https://thecodingtrain.com/challenges/184-elastic-collisions
+
+My Youtube:
+
+![image](https://github.com/user-attachments/assets/a747a18f-7f9c-45fd-81a8-3955abede419)
+
+
 # SpringForces
 
 Based on Challenges #160 — Spring Forces https://thecodingtrain.com/challenges/160-spring-forces
