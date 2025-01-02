@@ -12,7 +12,7 @@ C# App with jumping ball under gravity
 
 Simple App with water simulation.
 
-Based on: https://code.tutsplus.com/make-a-splash-with-dynamic-2d-water-effects--gamedev-236t
+- Based on: https://code.tutsplus.com/make-a-splash-with-dynamic-2d-water-effects--gamedev-236t
 
 ![image](https://github.com/tltrus/PHYSICS/assets/77125487/5371473b-2ff6-4a7e-81a5-322dfd3b4481)
 
@@ -20,7 +20,7 @@ Based on: https://code.tutsplus.com/make-a-splash-with-dynamic-2d-water-effects-
 
 C# projects with some solutions for Cisrcle-Line collisiton detection
 
-https://youtu.be/kXSFP3wwysU
+- https://youtu.be/kXSFP3wwysU
 
 **Circle-Line. Sol.1** based on: https://code.tutsplus.com/tutorials/quick-tip-collision-detection-between-a-circle-and-a-line--active-10546
 Projection on Left Normal using.
@@ -50,9 +50,8 @@ Several balls are falling down by gravity and crush wtith each other.
 
 C# Quadtree algorithm to detect intersections
 
-Based on: Coding Challenge #98.1 Quadtree https://thecodingtrain.com/challenges/98-quadtree
-
-My Youtube: https://youtu.be/73vQE_vETCI
+- Based on: Coding Challenge #98.1 Quadtree https://thecodingtrain.com/challenges/98-quadtree
+- Youtube: https://youtu.be/73vQE_vETCI
 
 ![image](https://github.com/tltrus/PHYSICS/assets/77125487/dc780ad0-c5b3-4760-bd77-1612f27d1dd0)
 
@@ -61,35 +60,31 @@ My Youtube: https://youtu.be/73vQE_vETCI
 
 C# Quadtree algorithm to detect intersections
 
-Based on: Coding Challenge #98.3 https://thecodingtrain.com/CodingChallenges/098.3-quadtree
-
-My Youtube: https://youtu.be/DzLmFz_3HtM
+- Based on: Coding Challenge #98.3 https://thecodingtrain.com/CodingChallenges/098.3-quadtree
+- Youtube: https://youtu.be/DzLmFz_3HtM
 
 ![image](https://github.com/tltrus/PHYSICS/assets/77125487/68edee91-2a9c-445f-8aee-45ac021e772f)
 
 
 # DoublePendulum
 
-Based on Coding Challenge #93. Double pendulum https://thecodingtrain.com/challenges/93-double-pendulum
-
-My Youtube: https://youtu.be/L2FGAoDYnOg
+- Based on Coding Challenge #93. Double pendulum https://thecodingtrain.com/challenges/93-double-pendulum
+- Youtube: https://youtu.be/L2FGAoDYnOg
 
 ![image](https://github.com/tltrus/PHYSICS/assets/77125487/1f78d796-0cb5-420a-a2ee-ddf9c8ac059f)
 
 
 # Elastic-collisions
 
-Based on #184 — Elastic Collisions https://thecodingtrain.com/challenges/184-elastic-collisions
-
-My Youtube: https://youtu.be/uSw7SQqJI2E
+- Based on #184 — Elastic Collisions https://thecodingtrain.com/challenges/184-elastic-collisions
+- Youtube: https://youtu.be/uSw7SQqJI2E
 
 ![image](https://github.com/user-attachments/assets/a747a18f-7f9c-45fd-81a8-3955abede419)
 
 
 # SpringForces
 
-Based on Challenges #160 — Spring Forces https://thecodingtrain.com/challenges/160-spring-forces
-
-My Youtube: https://youtu.be/iV_YKSvxJIg
+- Based on Challenges #160 — Spring Forces https://thecodingtrain.com/challenges/160-spring-forces
+- Youtube: https://youtu.be/iV_YKSvxJIg
 
 ![image](https://github.com/tltrus/PHYSICS/assets/77125487/573c252a-b618-49b4-9c6c-164b68ecfd97)
