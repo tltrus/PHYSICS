@@ -1,0 +1,16 @@
+﻿<Window x:Class="DrawingVisualApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:DrawingVisualApp"
+        Title="Spring System - Physics Simulation" 
+        Height="700" 
+        Width="900"
+        Background="Black"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid>
+        <local:DrawingVisualClass x:Name="canvas" 
+                                  Background="Black"
+                                  ClipToBounds="True"/>
+    </Grid>
+</Window>
