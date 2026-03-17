@@ -74,6 +74,16 @@ C# Quadtree algorithm to detect intersections
 ![image](https://github.com/tltrus/PHYSICS/assets/77125487/1f78d796-0cb5-420a-a2ee-ddf9c8ac059f)
 
 
+# PhysicalSimulation
+
+C# simulation of objects.
+
+- Youtube:
+- Rutube:
+
+![Clipboard_03-15-2026_01](https://github.com/user-attachments/assets/5b1b2ce6-2508-4333-b14c-0195ce81b0de)
+
+
 # Elastic-collisions
 
 - Based on #184 — Elastic Collisions https://thecodingtrain.com/challenges/184-elastic-collisions
