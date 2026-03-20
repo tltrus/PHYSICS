@@ -81,7 +81,7 @@ C# simulation of objects.
 - Youtube:
 - Rutube:
 
-![Clipboard_03-15-2026_01](https://github.com/user-attachments/assets/ad1d379e-531b-4ab1-90ab-c398fc3ac330)
+![image](https://github.com/user-attachments/assets/ad1d379e-531b-4ab1-90ab-c398fc3ac330)
 
 
 # Elastic-collisions
