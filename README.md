@@ -88,7 +88,7 @@ C# simulation of objects.
 
 C# simulation of objects.
 
-- Youtube:
+- Youtube: https://youtu.be/de7zMZ--Ah8
 - Rutube:
 
 ![image](https://github.com/user-attachments/assets/ad1d379e-531b-4ab1-90ab-c398fc3ac330)
