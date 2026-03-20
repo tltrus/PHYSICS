@@ -74,6 +74,16 @@ C# Quadtree algorithm to detect intersections
 ![image](https://github.com/tltrus/PHYSICS/assets/77125487/1f78d796-0cb5-420a-a2ee-ddf9c8ac059f)
 
 
+# PhysicalSimulation-2
+
+C# simulation of objects.
+
+- Youtube:
+- Rutube:
+
+![Clipboard_03-20-2026_02](https://github.com/user-attachments/assets/1d0ffb4d-c522-4def-bd11-3b411af95f86)
+
+
 # PhysicalSimulation
 
 C# simulation of objects.
