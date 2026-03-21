@@ -79,7 +79,7 @@ C# Quadtree algorithm to detect intersections
 C# simulation of objects.
 
 - Youtube: https://youtu.be/XMfAuTiud_4
-- Rutube:
+- Rutube: https://rutube.ru/video/3e57d662547d3ac2185d8c7fa66fa796/
 
 ![Clipboard_03-20-2026_02](https://github.com/user-attachments/assets/1d0ffb4d-c522-4def-bd11-3b411af95f86)
 
